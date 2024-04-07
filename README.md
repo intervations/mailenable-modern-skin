@@ -1,4 +1,4 @@
-# mailenable-skin-icloudmail
+# MailEnable skin
 iCloud style skin for MailEnable Webmail.
 
 The current skin options for MailEnable make our skin crawl, so, we are creating a modern skin for MailEnable that is based on the style (look and feel) of iCloud mail.
