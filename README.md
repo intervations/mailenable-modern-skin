@@ -3,7 +3,7 @@ iCloud style skin for MailEnable Webmail.
 
 The current skin options for MailEnable make our skin crawl, so, we are creating a modern skin for MailEnable that is based on the style (look and feel) of iCloud mail.
 
-# Sponsor this project
+# <img src="https://github.com/images/modules/search/mona-love.png" alt="Sponsor"> Sponsor this project
 https://buymeacoffee.com/intervations
 
 By sponsoring this project, you help move it up our list of projects to do.
