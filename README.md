@@ -35,7 +35,7 @@ _Please note that some features may not be shown is the screenshots of the curre
 
 # Sponsor this project
 
-We need to stay alert so we are constantly focused on the finer details of this beautiful modern webmail skin. support this project by buying us as many coffees as you can.
+We need to stay alert so we can focused on the finer details of this beautiful modern webmail skin. support this project by buying us as many coffees as you can.
 
 > https://buymeacoffee.com/intervations
 
