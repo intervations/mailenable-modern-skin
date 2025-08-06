@@ -9,8 +9,8 @@ We have designed a beautiful modern interface. Here are some screenshots to give
 
 ## 1. Beautiful main mailbox screen layout in both normal and dark-mode.
 
-<img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/01.%20Mailbox%20view.png" alt="Mailbox view">
-<img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/01.%20Mailbox%20view%20(Dark-mode).png" alt="Mailbox view (dark-mode)">
+<img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/01.%20Mailbox%20view.png" style="width: 50%;" alt="Mailbox view">
+<img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/01.%20Mailbox%20view%20(Dark-mode).png" style="width: 50%;" alt="Mailbox view (dark-mode)">
 
 
 
