@@ -9,7 +9,7 @@ We have designed a beautiful modern interface. Here are some screenshots to give
 
 _Please note that some features may not be shown is the screenshots of the current version._
 
-## Beautifully layed out Mailbox screen
+## Beautifully layed out main Mailbox
 
 <img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/01.%20Mailbox%20view.png" style="width: 45%;" alt="Mailbox view"><img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/01.%20Mailbox%20view%20(Dark-mode).png" style="width: 45%;" alt="Mailbox view (dark-mode)">
 
@@ -19,7 +19,7 @@ _Please note that some features may not be shown is the screenshots of the curre
 
 ## Re-imagined Contacts
 
-<img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/02.%20Profile%20drop-down.png" style="width: 25%;" alt="Contacts list"><img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/02.%20Profile%20drop-down%20(Dark-mode).png" style="width: 25%;" alt="Contacts list (dark-mode)">
+<img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/03.%20Contacts.png" style="width: 25%;" alt="Contacts list"><img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/03.%20Contacts%20(Dark-mode).png" style="width: 25%;" alt="Contacts list (dark-mode)">
 
 ## Elegant, beautiful Calendar
 
@@ -29,7 +29,7 @@ _Please note that some features may not be shown is the screenshots of the curre
 
 <img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/05.%20New%20Email%20Compose.png" style="width: 45%;" alt="Compose email"><img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/05.%20New%20Email%20Compose%20(Dark-mode).png" style="width: 45%;" alt="Compose email (dark-mode)">
 
-## Sleek Settings
+## Sleek Settings modal
 
 <img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/06.%20Settings.png" style="width: 45%;" alt="Mailbox settings"><img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/06.%20Settings%20(Dark-mode).png" style="width: 45%;" alt="Mailbox settings (dark-mode)">
 
