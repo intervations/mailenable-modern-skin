@@ -3,6 +3,18 @@ Modern skin for MailEnable Webmail.
 
 The current skin options for MailEnable make our skin crawl... So we are creating a modern skin for MailEnable that is more pleasing to our and your eyes.
 
+# Example screenshots
+
+We have designed a beautiful modern interface. Here are some screenshots to give you an idea as to the progress of the project.
+
+## 1. Beautiful main mailbox screen layout in both normal and dark-mode.
+
+<img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/01.%20Mailbox%20view.png" alt="Mailbox view">
+<img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/01.%20Mailbox%20view%20(Dark-mode).png" alt="Mailbox view (dark-mode)">
+
+
+
+
 # <img src="https://github.com/images/modules/search/mona-love.png" alt="Sponsor"> Sponsor this project
 https://buymeacoffee.com/intervations
 
