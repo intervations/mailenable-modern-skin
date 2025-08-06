@@ -7,7 +7,7 @@ The current skin options for MailEnable make our skin crawl... So we are creatin
 
 We have designed a beautiful modern interface. Here are some screenshots to give you an idea as to the progress of the project. Everything is designed for to take full advantage of both light and dark modes.
 
-_Please note that some features may not be shown is the screenshots of the current version._
+_Please note that some features may not be shown in the screenshots of the current version._
 
 ## Beautifully layed out main Mailbox
 
