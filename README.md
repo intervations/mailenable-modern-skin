@@ -1,4 +1,4 @@
-<img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/MailEnable-ModernWebmailLogo.png" alt="MailEnable Webmail">
+<img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/MailEnable-ModernWebmailLogo.png" style="height:35px;" alt="MailEnable Webmail">
 
 # MailEnable webmail skin
 Modern skin for MailEnable Webmail.
