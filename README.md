@@ -11,7 +11,7 @@ We have designed a beautiful modern interface. Here are some screenshots to give
 
 _Please note that some features may not be shown in the screenshots of the current version._
 
-## Beautifully laid out main Mailbox
+## Beautifully designed main Mailbox screen
 
 <img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/01.%20Mailbox%20view.png" style="width: 45%;" alt="Mailbox view"><img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/01.%20Mailbox%20view%20(Dark-mode).png" style="width: 45%;" alt="Mailbox view (dark-mode)">
 
@@ -22,6 +22,10 @@ _Please note that some features may not be shown in the screenshots of the curre
 ## Re-imagined Contacts
 
 <img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/03.%20Contacts.png" style="width: 25%;" alt="Contacts list"><img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/03.%20Contacts%20(Dark-mode).png" style="width: 25%;" alt="Contacts list (dark-mode)">
+
+## Adding/Editing a Contact couldn't be more pleasant
+
+<img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/03.%20Contacts%20-%20New%20Contact.png" style="width: 25%;" alt="New Contact"><img src="https://github.com/intervations/mailenable-modern-skin/blob/main/Example%20ScreenShots/03.%20Contacts%20-%20New%20Contact%20(Dark-mode).png" style="width: 25%;" alt="New Contact (dark-mode)">
 
 ## Elegant, beautiful Calendar
 
